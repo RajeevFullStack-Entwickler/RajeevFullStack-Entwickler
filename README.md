@@ -1,6 +1,5 @@
 ### Hi Developers 👋
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Rajeev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajeev-kushwaha-710092113/)](https://www.linkedin.com/in/rajeev-kushwaha-710092113/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Rajeev-green)](https://www.linkedin.com/in/rajeev-kushwaha-710092113/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rajeev-yellow)](https://stackoverflow.com/users/19761267/rajeev-kushwaha)
